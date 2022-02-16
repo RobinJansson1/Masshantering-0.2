@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"CachedBmp_121":
+{
+	"frame": {"x":930,"y":1143,"w":1114,"h":887},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1114,"h":887},
+	"sourceSize": {"w":1114,"h":887}
+},
+"flash0ai_6":
+{
+	"frame": {"x":0,"y":0,"w":928,"h":1179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":928,"h":1179},
+	"sourceSize": {"w":928,"h":1179}
+},
+"flash0ai_7":
+{
+	"frame": {"x":930,"y":0,"w":928,"h":1141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":928,"h":1141},
+	"sourceSize": {"w":928,"h":1141}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.3.179",
+	"image": "Infografic_NCC_Teknik_HMV_0.4_atlas_6.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

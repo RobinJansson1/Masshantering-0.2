@@ -1,0 +1,123 @@
+{"frames": {
+
+"CachedBmp_101":
+{
+	"frame": {"x":0,"y":126,"w":324,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":324,"h":36},
+	"sourceSize": {"w":324,"h":36}
+},
+"CachedBmp_103":
+{
+	"frame": {"x":0,"y":88,"w":324,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":324,"h":36},
+	"sourceSize": {"w":324,"h":36}
+},
+"CachedBmp_105":
+{
+	"frame": {"x":0,"y":50,"w":324,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":324,"h":36},
+	"sourceSize": {"w":324,"h":36}
+},
+"CachedBmp_30":
+{
+	"frame": {"x":0,"y":0,"w":383,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":383,"h":48},
+	"sourceSize": {"w":383,"h":48}
+},
+"CachedBmp_44":
+{
+	"frame": {"x":326,"y":50,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"CachedBmp_52":
+{
+	"frame": {"x":423,"y":0,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"CachedBmp_54":
+{
+	"frame": {"x":402,"y":38,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"CachedBmp_71":
+{
+	"frame": {"x":220,"y":240,"w":218,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":36},
+	"sourceSize": {"w":218,"h":36}
+},
+"CachedBmp_73":
+{
+	"frame": {"x":0,"y":240,"w":218,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":36},
+	"sourceSize": {"w":218,"h":36}
+},
+"CachedBmp_75":
+{
+	"frame": {"x":220,"y":202,"w":218,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":36},
+	"sourceSize": {"w":218,"h":36}
+},
+"CachedBmp_76":
+{
+	"frame": {"x":385,"y":0,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"CachedBmp_77":
+{
+	"frame": {"x":0,"y":202,"w":218,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":36},
+	"sourceSize": {"w":218,"h":36}
+},
+"CachedBmp_78":
+{
+	"frame": {"x":364,"y":50,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+"CachedBmp_99":
+{
+	"frame": {"x":0,"y":164,"w":324,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":324,"h":36},
+	"sourceSize": {"w":324,"h":36}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.3.179",
+	"image": "Infografic_NCC_Teknik_HMV_0.4_atlas_4.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
